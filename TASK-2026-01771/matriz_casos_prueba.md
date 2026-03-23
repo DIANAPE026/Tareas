@@ -11,7 +11,7 @@
 | **BORDE** | CP-BOR-001 | Conductor sin foto registrada | Conductor asignado pero sin archivo de imagen. | Hacer clic en el icono de la foto. | El modal se abre pero se muestra vacío o con placeholder, sin romper la UI. | Baja | ⏳ Pendiente |
 | **BORDE** | CP-BOR-002 | Conductor sin teléfonos registrados | Conductor asignado sin números en BD. | Hacer clic en el icono de teléfono. | El modal muestra: "Personal: -" y "Corporativo: -". | Media | ⏳ Pendiente |
 | **BORDE** | CP-BOR-003 | Conductor con un solo teléfono | Solo tiene nro personal o solo corporativo. | Hacer clic en el icono de teléfono. | Muestra el número existente y "-" para el faltante. | Media | ⏳ Pendiente |
-| **UI/UX** | CP-UI-001 | Interactividad de Modales | Modal abierto. | Hacer clic fuera del modal o en el botón cerrar. | El modal se cierra correctamente y permite seguir navegando. | Media | ⏳ Pendiente |
+| **UI/UX** | CP-UI-001 | Interactividad de Modales | Modal abierto. | Hacer clic fuera del modal o en el botón cerrar. | El modal se cierra correctamente y permite seguir navegando. | Media | ✅ APROBADO |
 
 ---
 *Matriz generada según estándares ISTQB para el requerimiento de Datos del Conductor.*
