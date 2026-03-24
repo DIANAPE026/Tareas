@@ -11,5 +11,7 @@
 | **CP-NEG-002** | Restricción por Terminal No Aérea | NEGATIVO | Usuario habilitado pero asignado a terminal SIN soporte aéreo. | ID de Terminal Terrestre. | 1. Cambiar de terminal.<br>2. Ingresar a /reportes. | La opción "Cierre Aéreo" se oculta o se deshabilita. | Alta | Media | ⏳ PENDIENTE |
 | **CP-BOR-001** | Usuario con Múltiples Privilegios | BORDE | Usuario con acceso a reportes terrestres y aéreos. | Roles combinados. | 1. Ingresar a /reportes. | "Cierre Aéreo" se mantiene como la opción prioritaria por defecto según lógica de negocio. | Media | Baja | ⏳ PENDIENTE |
 | **CP-BOR-002** | Cambio de Terminal en Sesión Activa | BORDE | Sesión iniciada en terminal aérea. | Cambio dinámico de sucursal. | 1. Cambiar terminal.<br>2. Verificar menú de reportes sin recargar página completa. | El sistema actualiza los permisos de reporte dinámicamente. | Media | Baja | ⏳ PENDIENTE |
-| **CP-UI-001** | Consistencia de Inter
-
+| **CP-UI-001** | Consistencia de Interfaz (UX) | UI/UX | Acceso al módulo de reportes. | N/A | 1. Visualizar el componente de selección de reporte. | Etiquetas correctas ("Cierre Aéreo"), tipografía según manual de marca. | Baja | Baja | ⏳ PENDIENTE |
+
+---
+*Matriz diseñada bajo lineamientos de ISTQB (International Software Testing Qualifications Board).*
